@@ -1,7 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f99c39e-2fd9-4002-9b93-219cb2dfb2b5" name="Default" comment="" />
+    <list default="true" id="5f99c39e-2fd9-4002-9b93-219cb2dfb2b5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gazatem/spinny/domain/Book.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gazatem/spinny/controller/BookBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/gazatem/spinny/repository/BookRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_fge_btf_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_fge_jackson_coreutils_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_fge_json_patch_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_fge_msg_simple_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_16_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_transaction_javax_transaction_api_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_35.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_8_0_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_8_0_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_tomcat_jdbc_8_0_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_tomcat_juli_8_0_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjrt_1_8_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_8_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_atteo_evo_inflector_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_core_4_3_8_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_entitymanager_4_3_8_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_1_3_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_javassist_javassist_3_18_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_jandex_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_1_3_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_log4j_over_slf4j_1_7_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_aop_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_jpa_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_rest_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_1_10_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_jpa_1_8_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_rest_core_2_2_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_rest_webmvc_2_2_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_hateoas_spring_hateoas_0_16_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_plugin_spring_plugin_core_1_1_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_4_0_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aspects_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_4_0_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_4_0_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_4_0_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_4_0_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jdbc_4_0_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jdbc_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_orm_4_0_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_orm_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_4_0_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xml_apis_xml_apis_1_0_b2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/books.xhtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spinny.iml" afterPath="$PROJECT_DIR$/spinny.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="spinny.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,26 +130,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gazatem/spinny/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7179054">
-              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1425#1441#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ViewScope.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gazatem/spinny/scope/ViewScope.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1425#1441#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,7 +146,71 @@
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="45" column="17" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="17" />
+              <caret line="43" column="76" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gazatem/spinny/domain/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gazatem/spinny/repository/BookRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookBean.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gazatem/spinny/controller/BookBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="books.xhtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/books.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6307421">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.xhtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/test.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,25 +220,11 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gazatem/spinny/controller/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="30" />
+              <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#347#348#0" expanded="true" />
                 <element signature="e#377#378#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gazatem/spinny/controller/TestService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,9 +235,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="Xhtml" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -301,7 +432,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="2860452994486" />
+        <entry key="$PROJECT_DIR$" value="2860516063083" />
         <entry key="$PROJECT_DIR$/../wOfice" value="1411032920000" />
       </map>
     </option>
@@ -317,8 +448,6 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.1.4.RELEASE/b6649f4bd260485dfcf3ffcf0b895d38f6e465e0/spring-boot-starter-web-1.1.4.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.1.4.RELEASE/b74730f6ff7665339ce31fadb89226e0c057d3e6/spring-boot-starter-web-1.1.4.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.primefaces/primefaces/5.0/6470db46afc9ff1cc8b6b55df2f15a63e29f5449/primefaces-5.0-sources.jar" />
                             <option value="$MAVEN_REPOSITORY$/org/primefaces/primefaces/5.0/primefaces-5.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.faces/jsf-api/2.2.9/d9f769299ab2dc818ee101849ada9fa9f47755f8/jsf-api-2.2.9-sources.jar" />
@@ -329,76 +458,158 @@
                             <option value="$MAVEN_REPOSITORY$/javax/el/el-api/2.2/el-api-2.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.web/el-impl/2.2/5c29c1539aa95d5029e3a8845fdd92a8ebce2dcb/el-impl-2.2-sources.jar" />
                             <option value="$MAVEN_REPOSITORY$/org/glassfish/web/el-impl/2.2/el-impl-2.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.9/e9d04af1b2bdaa9500a90270acf036c15b6a4db5/tomcat-embed-core-8.0.9-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.9/f2d3ac66fe0e46f70019763846e4a8f5de8fa8d5/tomcat-embed-core-8.0.9.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/7.0.54/8dca8cfe4ebeb68b28a2225140291c02c4d2cc51/tomcat-embed-logging-juli-7.0.54-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/7.0.54/68a1a1fc9fa2c7f97431a36e89f95c5d2eb2ebd5/tomcat-embed-logging-juli-7.0.54.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-jasper/7.0.54/558a599d460690eb01ad3454fbc2ed71b52a4d53/tomcat-embed-jasper-7.0.54-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-jasper/7.0.54/54c2b4c25fb5ea0a6edf555986927b20cf9f2aa7/tomcat-embed-jasper-7.0.54.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.1.4.RELEASE/f993b786d983f513114e843199fd9a6a1d56cc21/spring-boot-starter-1.1.4.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.1.4.RELEASE/660c34b289fe68357cdb7bea1ee1c6c7b180ba3b/spring-boot-starter-1.1.4.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.1.4.RELEASE/45e317a30405e78f2f8b5894ac235443645f4ed1/spring-boot-starter-tomcat-1.1.4.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.1.4.RELEASE/e38cf0b7e3aa6a13cbfd050bd218477ee88931e5/spring-boot-starter-tomcat-1.1.4.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.3.3/24d14caf77d96de6e2265c75137fad96b1990331/jackson-databind-2.3.3-sources.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.3.3/jackson-databind-2.3.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.0.3.Final/268b9393804e278e15600fbd169b22726af8b4a2/hibernate-validator-5.0.3.Final-sources.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.0.3.Final/hibernate-validator-5.0.3.Final.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.0.6.RELEASE/5b16ad4018f9012ce3917e2e1038d19d2da57285/spring-core-4.0.6.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.0.6.RELEASE/d880beac77d42c5798aa2b632ddd0e4ae47c79ad/spring-core-4.0.6.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.0.6.RELEASE/ea420724d884a43e3db4b08d2ca5ff75715ff9bb/spring-web-4.0.6.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.0.6.RELEASE/85ef4b91fcdd86d81e4a9b3e5f006dcb4128e6d/spring-web-4.0.6.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.0.6.RELEASE/8ed4a4be827c7ae796e8f855abf6190a596bb931/spring-webmvc-4.0.6.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.0.6.RELEASE/9020a09a96058133c822ff04f00e7fa0e0c3b82b/spring-webmvc-4.0.6.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/7.0.54/db9825c9b62616c7e10b5d58e005f26b4ff186e9/tomcat-embed-el-7.0.54-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/7.0.54/3c9425b650ba700ac47185500facabd9ab970adc/tomcat-embed-el-7.0.54.jar" />
+                            <option value="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.35/mysql-connector-java-5.1.35.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.8.0.RELEASE/f0cb11d0446e709feefb78517734155653955949/spring-data-jpa-1.8.0.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.8.0.RELEASE/spring-data-jpa-1.8.0.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/1.2.3.RELEASE/ee09caa9066a045cb6cc5a796b270e52d4d6d267/spring-boot-starter-data-jpa-1.2.3.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/1.2.3.RELEASE/spring-boot-starter-data-jpa-1.2.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-rest/1.2.3.RELEASE/8e8d810f4f2cc1e79586596049d616f5a73c6b0c/spring-boot-starter-data-rest-1.2.3.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-rest/1.2.3.RELEASE/spring-boot-starter-data-rest-1.2.3.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt.core.compiler/ecj/P20140317-1600/bfdba22678952df592f289601bc7edd6f3e10041/ecj-P20140317-1600-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt.core.compiler/ecj/P20140317-1600/5e329ddb97816f4e5599578aafe87cc07a1381cd/ecj-P20140317-1600.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.1.4.RELEASE/4c7aebfc4ef44fad3b8fb9ad1b715f5e41a29e18/spring-boot-1.1.4.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.1.4.RELEASE/338574f840409cb91adbbb4adb7b7f458c213ce0/spring-boot-1.1.4.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.1.4.RELEASE/73360e6978d330fdbda4e5e58998d5108e39ffe0/spring-boot-autoconfigure-1.1.4.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.1.4.RELEASE/8f1c2de4847a1456788f26df61a4639febf1a77f/spring-boot-autoconfigure-1.1.4.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.1.4.RELEASE/62028b8660927f24543508c770595d0583de287/spring-boot-starter-logging-1.1.4.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.1.4.RELEASE/5525505b4e63800bc3e69313e66fd4a7a4eb9b6d/spring-boot-starter-logging-1.1.4.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.13/b55f31fd670877e459052312a2cc26b0694307b0/snakeyaml-1.13-sources.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.13/snakeyaml-1.13.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.3.0/cc964b08f8d37e3d8465de923b9e6321107a5429/jackson-annotations-2.3.0-sources.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.3.3/7d582e8c2d3f7015f5c22b218d6a232a86f157ef/jackson-core-2.3.3-sources.jar" />
-                            <option value="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.3.3/jackson-core-2.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.10.0.RELEASE/3c1e9aef8e9da1844b332bc4a99a84c5024f0adb/spring-data-commons-1.10.0.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.10.0.RELEASE/spring-data-commons-1.10.0.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.5/7500c952e086db06028c248cf0de0a0f5fe55275/aspectjrt-1.8.5-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/aspectj/aspectjrt/1.8.5/aspectjrt-1.8.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.2.3.RELEASE/834b74d989825ad8e23bd598a5865d7533330a4f/spring-boot-starter-1.2.3.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/1.2.3.RELEASE/spring-boot-starter-1.2.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-aop/1.2.3.RELEASE/c2f1959cf9b0ba590905762a266d9541a173676b/spring-boot-starter-aop-1.2.3.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-aop/1.2.3.RELEASE/spring-boot-starter-aop-1.2.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/1.2.3.RELEASE/410967d19fe37092ade5890f3863889581f92fb2/spring-boot-starter-jdbc-1.2.3.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-jdbc/1.2.3.RELEASE/spring-boot-starter-jdbc-1.2.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-entitymanager/4.3.8.Final/a0360f209917d3a8a87279baaf9b7e7ab84647f1/hibernate-entitymanager-4.3.8.Final-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/hibernate/hibernate-entitymanager/4.3.8.Final/hibernate-entitymanager-4.3.8.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.transaction/javax.transaction-api/1.2/5d1fb3fe056fe51e6f6ed9b4ef4898a774ed69c0/javax.transaction-api-1.2-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/4.1.6.RELEASE/e6ea24553dde466f4f62139ec2bc1c90711100b2/spring-aspects-4.1.6.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-aspects/4.1.6.RELEASE/spring-aspects-4.1.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.5/187a967cfe7e089d838a2fb4182a3a1913e089b0/jackson-annotations-2.4.5-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.4.5/jackson-annotations-2.4.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.5/de094907ce9aab8509792f5587c5c890ea2384d6/jackson-databind-2.4.5-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.4.5/jackson-databind-2.4.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-rest-webmvc/2.2.2.RELEASE/3854119036439246fc3f4d2b28d1079541efb6a/spring-data-rest-webmvc-2.2.2.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-rest-webmvc/2.2.2.RELEASE/spring-data-rest-webmvc-2.2.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.3.RELEASE/8a88c7a90a3c88646c787ccfa3c59e57a81f0af3/spring-boot-1.2.3.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.2.3.RELEASE/spring-boot-1.2.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.2.3.RELEASE/3459c376ba63e085b51f55ea1717efe8a263f700/spring-boot-autoconfigure-1.2.3.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.2.3.RELEASE/spring-boot-autoconfigure-1.2.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.2.3.RELEASE/45e8c9d5f789aa30a60d1504657adbbf88fe2be9/spring-boot-starter-logging-1.2.3.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/1.2.3.RELEASE/spring-boot-starter-logging-1.2.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.14/4c6bcedc3efa772a5ae1c2fd01efee8e4d15edac/snakeyaml-1.14-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.14/snakeyaml-1.14.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.5/f7a7b1dfc6a9f208f271252ca9592c252de36238/aspectjweaver-1.8.5-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.8.5/aspectjweaver-1.8.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.1.6.RELEASE/b32d0abb7eafcd32b527b5b51bb73ce782008ada/spring-jdbc-4.1.6.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.1.6.RELEASE/spring-jdbc-4.1.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jdbc/8.0.20/bf139210cd9bd9937dce1cd137392cd201129c26/tomcat-jdbc-8.0.20-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jdbc/8.0.20/tomcat-jdbc-8.0.20.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.1.3.GA/4d2c4df2c1a1b2d2f9201f6d580d7d19ccf8cbdf/jboss-logging-3.1.3.GA-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging-annotations/1.2.0.Beta1/360b782ab568672ea968726ddf209e753c860e1a/jboss-logging-annotations-1.2.0.Beta1-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/4.3.8.Final/e1fecf8df3dbcc91cec408cbe21cedcb0c60f8be/hibernate-core-4.3.8.Final-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.3.8.Final/hibernate-core-4.3.8.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dom4j/dom4j/1.6.1/a8e7149359255f43e0e5e3b1837948f9ed5861fb/dom4j-1.6.1-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.common/hibernate-commons-annotations/4.0.5.Final/98339e44338b43de01cb5ae0b169447d17ae00/hibernate-commons-annotations-4.0.5.Final-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.18.1-GA/d8d089f3a8845cce22d3006e02ab1403dd73b5b6/javassist-3.18.1-GA-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.5/78aa0daeea0c06989df5ba57925b84e9daa03aa0/jackson-core-2.4.5-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.4.5/jackson-core-2.4.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-rest-core/2.2.2.RELEASE/c4ed7087bb9ffb4692f02615e20a8399277d9911/spring-data-rest-core-2.2.2.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-rest-core/2.2.2.RELEASE/spring-data-rest-core-2.2.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.fge/json-patch/1.7/2bfd2115c9c83a93279931f3e4d247ef7502d42b/json-patch-1.7-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/github/fge/json-patch/1.7/json-patch-1.7.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.11/f8a858b8b43c131888b19ff95a25626fd80db25a/jul-to-slf4j-1.7.11-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/slf4j/jul-to-slf4j/1.7.11/jul-to-slf4j-1.7.11.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.11/70fd1e90c9a82559c0650228071f121363d3f9bc/log4j-over-slf4j-1.7.11-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/slf4j/log4j-over-slf4j/1.7.11/log4j-over-slf4j-1.7.11.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.3/f4915df0360e7529c61f9e78ef3a06c19238e62e/logback-classic-1.1.3-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.3/logback-classic-1.1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/8.0.20/7286c04e034de2c7992e08fcd91ef745bbe2d037/tomcat-juli-8.0.20-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-juli/8.0.20/tomcat-juli-8.0.20.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/antlr/antlr/2.7.7/da39a3ee5e6b4b0d3255bfef95601890afd80709/antlr-2.7.7-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/antlr/antlr/2.7.7/antlr-2.7.7.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss/jandex/1.1.0.Final/cd042b769b296fd1bc20ca5120824caa42b6c9ed/jandex-1.1.0.Final-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.0.b2/d8525661c5a0a05702fa41873d250d135031ec25/xml-apis-1.0.b2-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.hateoas/spring-hateoas/0.16.0.RELEASE/69127201e9b8cc6816040e1860a63c92a22ecd36/spring-hateoas-0.16.0.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/hateoas/spring-hateoas/0.16.0.RELEASE/spring-hateoas-0.16.0.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.plugin/spring-plugin-core/1.1.0.RELEASE/78cbd2452ab951bb68955670c0169ff3349a6532/spring-plugin-core-1.1.0.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/plugin/spring-plugin-core/1.1.0.RELEASE/spring-plugin-core-1.1.0.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.atteo/evo-inflector/1.2/f65a9a8f912e53c98d36db13777c87e8cacd89d9/evo-inflector-1.2-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/atteo/evo-inflector/1.2/evo-inflector-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.fge/jackson-coreutils/1.6/f8fbbad472448377312aeb01c4519805cbb3f076/jackson-coreutils-1.6-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/github/fge/jackson-coreutils/1.6/jackson-coreutils-1.6.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.3/a69d9a62a693f391ad19d8ac19fa85a7a60cbc7c/logback-core-1.1.3-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.3/logback-core-1.1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/611a57d836e2c320d59f9851d4ad587f3c8472e/objenesis-2.1-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.1/objenesis-2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.fge/msg-simple/1.1/d2edffa8b1f911531725430bcbb2ac3870f19323/msg-simple-1.1-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/github/fge/msg-simple/1.1/msg-simple-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/16.0.1/2477d012cd5379f9696e0d9d3ccc62ad13a09ca4/guava-16.0.1-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/google/guava/guava/16.0.1/guava-16.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.fge/btf/1.2/a38c09aeeee6a2fc168cb296ed75cfe014789cfc/btf-1.2-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/github/fge/btf/1.2/btf-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.2.3.RELEASE/f99ddef9928e000d34eadde6cc0084464708f02e/spring-boot-starter-web-1.2.3.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/1.2.3.RELEASE/spring-boot-starter-web-1.2.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.2.3.RELEASE/e632740def8a25776a095d4cf1e2201be63d91ec/spring-boot-starter-tomcat-1.2.3.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-tomcat/1.2.3.RELEASE/spring-boot-starter-tomcat-1.2.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.1.3.Final/2bb7969a7c05ddd8474873981321cce43c688eb9/hibernate-validator-5.1.3.Final-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.0.20/fa795768128e0fb4b978bcce065d85b263e199e9/tomcat-embed-websocket-8.0.20-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-websocket/8.0.20/tomcat-embed-websocket-8.0.20.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar" />
                             <option value="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.1.1.GA/e8fb8edacbcab714c4b8add89f5dd4ee9b4b7862/jboss-logging-3.1.1.GA-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.1.1.GA/7fb1a7eb7ff1d15cac1802510fee65c7ca31a869/jboss-logging-3.1.1.GA.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.0.0/da0cec0cf5fa28fba22e44700d72259e0225f2e4/classmate-1.0.0-sources.jar" />
                             <option value="$MAVEN_REPOSITORY$/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.0.6.RELEASE/d21d57199535402a4afdb4e9406d6f5276a5b205/spring-aop-4.0.6.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.0.6.RELEASE/e377760b7692569535573ba9f6e80b4b74869369/spring-aop-4.0.6.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.0.6.RELEASE/5e37af2dc3a230912dbb06b45cc2c1d53c2c9abb/spring-beans-4.0.6.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.0.6.RELEASE/587879b58acebeb5b0a63c01e822f9b44d9a4c77/spring-beans-4.0.6.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.0.6.RELEASE/778949f894ac1ee2d42a8f074a7477540f4d04a/spring-context-4.0.6.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.0.6.RELEASE/3bb3a52edabf9ffe73aa534fb085c816bac28b4d/spring-context-4.0.6.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.0.6.RELEASE/b86718cc9e7b5f53be187e8e35b44ad2dfd0196b/spring-expression-4.0.6.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.0.6.RELEASE/5f0a135b8cf290aa244097dc6264ad0989d25c56/spring-expression-4.0.6.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.7/b5a646b81b899e930f8600c5f45766dd82743d93/jcl-over-slf4j-1.7.7-sources.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.7/13cbf9161382f50c1862bc371bf5c8aab05a664c/jul-to-slf4j-1.7.7-sources.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/slf4j/jul-to-slf4j/1.7.7/jul-to-slf4j-1.7.7.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.7/307e030bc37259ad60dce614530d698ac74c4dc/log4j-over-slf4j-1.7.7-sources.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/slf4j/log4j-over-slf4j/1.7.7/log4j-over-slf4j-1.7.7.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.2/decd76e2c461157804473468bbdc6b8eb6d6121b/logback-classic-1.1.2-sources.jar" />
-                            <option value="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.20/c353a390a62f801ce0d031cefdcf513634940087/tomcat-embed-core-8.0.20-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.20/tomcat-embed-core-8.0.20.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.6.RELEASE/a09f8d7c0c2b861f0d9e256de451c78b55aec0cf/spring-core-4.1.6.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.1.6.RELEASE/spring-core-4.1.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/4.1.6.RELEASE/ebdb9108a658208523d0398fb0e78b5334c9cf85/spring-orm-4.1.6.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-orm/4.1.6.RELEASE/spring-orm-4.1.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.1.6.RELEASE/b415e1ace63a04dda23b2e7431678f726d6032ca/spring-tx-4.1.6.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.1.6.RELEASE/spring-tx-4.1.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.1.6.RELEASE/b27f6ddfa82527ab2be92b11d3e1c50b6e7993e9/spring-aop-4.1.6.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar" />
                             <option value="$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.7/acd62e31cc314266e73eebed0b6dd7ea974a0ed/slf4j-api-1.7.7-sources.jar" />
-                            <option value="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.2/502e1c764542fe747896c1dc04f023acfe0e5cbc/logback-core-1.1.2-sources.jar" />
-                            <option value="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.1.6.RELEASE/90d95c820dabd0187ff5be4a854b912741e8fd36/spring-context-4.1.6.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.1.6.RELEASE/spring-context-4.1.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.11/c2a34b14948e01fb7500af68711018868e38bcdf/jcl-over-slf4j-1.7.11-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.7.11/jcl-over-slf4j-1.7.11.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.1.6.RELEASE/708d354f5210f253d345b3cb65013410cc770554/spring-beans-4.1.6.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.11/cc676d8cf54f7e0135e98fed2b3c283a4a576689/slf4j-api-1.7.11-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.11/slf4j-api-1.7.11.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.1.6.RELEASE/38eefb4626db79c8939b58da803476864028f9d0/spring-web-4.1.6.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.6.RELEASE/spring-web-4.1.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.1.6.RELEASE/74e437c914201b70db2022052bc35611ad4beb9a/spring-webmvc-4.1.6.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.6.RELEASE/spring-webmvc-4.1.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.0.20/6f5945c68a72ca85f513b12f17d86601f1da6ae9/tomcat-embed-el-8.0.20-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-el/8.0.20/tomcat-embed-el-8.0.20.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.20/898c70a96db07261f7f3c3003264c900d8f080d5/tomcat-embed-logging-juli-8.0.20-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-logging-juli/8.0.20/tomcat-embed-logging-juli-8.0.20.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.1.6.RELEASE/ee7d75b5f8328cb46f965fd4f07b12691bedea6a/spring-expression-4.1.6.RELEASE-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-expression/4.1.6.RELEASE/spring-expression-4.1.6.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.1.4.RELEASE/92b21c0f9a004367984e3515ecb721433c72f101/spring-boot-gradle-plugin-1.1.4.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.1.4.RELEASE/f0bdde03ced630ff3c41f08739300bb3593832ef/spring-boot-gradle-plugin-1.1.4.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.1.4.RELEASE/78722888537e73b816ff2516b0f5bb0cffdf99ec/spring-boot-loader-tools-1.1.4.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.1.4.RELEASE/c3b266b88c5b43748e1e5d7aa8361307aac362f2/spring-boot-loader-tools-1.1.4.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.1.4.RELEASE/31cc473e0948f790b7b18dcf4af4c67823a6da20/spring-boot-dependency-tools-1.1.4.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-dependency-tools/1.1.4.RELEASE/3b1468c73abe8ed33402cc986fc25da17028414a/spring-boot-dependency-tools-1.1.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.0.6.RELEASE/5b16ad4018f9012ce3917e2e1038d19d2da57285/spring-core-4.0.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.0.6.RELEASE/d880beac77d42c5798aa2b632ddd0e4ae47c79ad/spring-core-4.0.6.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/28bb0405fddaf04f15058fbfbe01fe2780d7d3b6/commons-logging-1.1.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f/commons-logging-1.1.3.jar" />
                           </list>
@@ -536,7 +747,12 @@
         <option value="$PROJECT_DIR$/src/main/java/HomeController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gazatem/spinny/controller/HomeController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gazatem/spinny/controller/JsfController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gazatem/spinny/controller/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gazatem/spinny/domain/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gazatem/spinny/repository/BookRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gazatem/spinny/controller/BookBean.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/webapp/books.xhtml" />
       </list>
     </option>
   </component>
@@ -570,7 +786,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -605,64 +821,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spinny" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spinny" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spinny" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spinny" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spinny" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spinny" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spinny" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -678,9 +836,11 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Xhtml" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\spinny\src\main\resources" />
       <recent name="C:\projects\spinny\src\main\java\com\gazatem\spinny\controller" />
       <recent name="C:\projects\spinny\src\main" />
     </key>
@@ -958,12 +1118,12 @@
       <created>1430225600391</created>
       <option name="number" value="Default" />
       <updated>1430225600391</updated>
-      <workItem from="1430225603335" duration="2161000" />
+      <workItem from="1430225603335" duration="8287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2161000" />
+    <option name="totallyTimeSpent" value="8287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -977,10 +1137,10 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32782516" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1029,16 +1189,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gazatem/spinny/controller/JsfController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1060,27 +1210,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="17" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gazatem/spinny/controller/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1089,22 +1219,107 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/test.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gazatem/spinny/domain/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gazatem/spinny/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7179054">
-          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#1425#1441#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gazatem/spinny/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="76" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gazatem/spinny/controller/JsfController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11486486">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gazatem/spinny/repository/BookRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gazatem/spinny/controller/BookBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/books.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6307421">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
